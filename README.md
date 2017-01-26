@@ -12,4 +12,7 @@
 	git status = segiir á hvaða grein aður er á.
 	git diff = sýnir breytingar af seinustu verkum.
 	git checkout = breytir um greinar
-    
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = sýnir breytingar af seinustu verkum.
+	b) git diff --staged =  ekkert 
+	c) git diff commit1 commit2 = það sýnir breytingar eftir hvaða log þú velur.
