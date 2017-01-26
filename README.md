@@ -16,3 +16,5 @@
 	a) git diff = sýnir breytingar af seinustu verkum.
 	b) git diff --staged =  ekkert 
 	c) git diff commit1 commit2 = það sýnir breytingar eftir hvaða log þú velur.
+4. 	Hvað er útgáfustýring (e.version control)? 
+svar:það er útgáfa sem stjórnar upptöku breytingar á möppuni.
