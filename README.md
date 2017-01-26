@@ -25,3 +25,10 @@ svar: geta verið margir að vinna við eitt verkefni og ræður að deila öllu
 6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 svar : við allar stórbreytingar.
 
+7.Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+svar: Þetta er kallað the three states
+	working directory er directory sem maður er að vinna í.
+    
+	Staging area er þetta er svæði þar sem að hlutir eru lagaðir áður en það er commitað
+    
+	repository er geymsla sem allir hafa og þar eru gögnin mans geymd
