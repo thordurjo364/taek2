@@ -35,3 +35,6 @@ svar: Þetta er kallað the three states
     
 8.	Hvenær er sniðugt að nota greinar (branches)?
 svar :Þegar það er mikið af fólki að vinna við eitt verkefni (dæmi)
+
+9.	Hver fann upp GIT?
+svar: Linus Torvalds fann up Git.
