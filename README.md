@@ -22,3 +22,6 @@ svar:það er útgáfa sem stjórnar upptöku breytingar á möppuni.
 5.Hverjir eru helstu kostir við að nota GIT?
 svar: geta verið margir að vinna við eitt verkefni og ræður að deila öllu eða ekki.
 
+6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+svar : við allar stórbreytingar.
+
