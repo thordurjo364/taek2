@@ -32,3 +32,6 @@ svar: Þetta er kallað the three states
 	Staging area er þetta er svæði þar sem að hlutir eru lagaðir áður en það er commitað
     
 	repository er geymsla sem allir hafa og þar eru gögnin mans geymd
+    
+8.	Hvenær er sniðugt að nota greinar (branches)?
+svar :Þegar það er mikið af fólki að vinna við eitt verkefni (dæmi)
