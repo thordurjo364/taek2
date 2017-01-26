@@ -18,3 +18,7 @@
 	c) git diff commit1 commit2 = það sýnir breytingar eftir hvaða log þú velur.
 4. 	Hvað er útgáfustýring (e.version control)? 
 svar:það er útgáfa sem stjórnar upptöku breytingar á möppuni.
+
+5.Hverjir eru helstu kostir við að nota GIT?
+svar: geta verið margir að vinna við eitt verkefni og ræður að deila öllu eða ekki.
+
